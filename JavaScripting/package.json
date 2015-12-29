@@ -1,0 +1,10 @@
+{
+  "name": "JavaScripting",
+  "version": "0.0.0",
+  "description": "JavaScripting",
+  "main": "app.js",
+  "author": {
+    "name": "Jakub",
+    "email": ""
+  }
+}

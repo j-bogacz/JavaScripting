@@ -1,3 +1,3 @@
-﻿var example = "example string";
+﻿var pizza = "pizza is alright";
 
-console.log(example.length);
+console.log(pizza.replace("alright", "wonderful"));

@@ -1,10 +1,8 @@
-﻿var fruit = "orange";
+﻿var total = 0;
+var limit = 10;
 
-if (fruit.length > 5) {
-	var message = "The fruit name has more than five characters.";
-}
-else {
-	message = "The fruit name has five characters or less.";
+for (var i = 0; i < limit; i++) {
+	total += i
 }
 
-console.log(message);
+console.log(total);

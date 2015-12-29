@@ -1,3 +1,3 @@
-﻿var someString = "this is a string";
+﻿var example = "example string";
 
-console.log(someString);
+console.log(example.length);

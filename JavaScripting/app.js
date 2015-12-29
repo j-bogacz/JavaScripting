@@ -1,4 +1,3 @@
-﻿var roundUp = 1.5;
-var rounded = Math.round(roundUp);
+﻿var n = 128;
 
-console.log(rounded);
+console.log(n.toString());

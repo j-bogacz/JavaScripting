@@ -1,5 +1,5 @@
-﻿var eat = function(food) {
-	return food + " tasted really good.";
+﻿var math = function (x, y, z) {
+	return x + (y * z);
 }
 
-console.log(eat("bananas"));
+console.log(math(53, 61, 67));
